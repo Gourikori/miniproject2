@@ -1,0 +1,16 @@
+{
+  "name": "tourist-place-search-and-ranking-engine2",
+  "version": "1.0.0",
+  "description": "Engine 2 (Logic & Rule - DSA & Programming) Backend for Tourist Place Search and Ranking System, KLE Technological University",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test_engine2.js"
+  },
+  "author": "Vivek B M (USN: 01FE24BCA266)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
