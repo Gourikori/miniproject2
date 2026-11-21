@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build outputs & executables
+*.exe
+*.o
+*.obj
+dist/
+build/
+
+# Operating System files
+.DS_Store
+Thumbs.db
